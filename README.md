@@ -12,7 +12,7 @@ Como Full-Stack sé desenvolverme tanto en Front-end como en Back-end según se 
 <br/>  
 
 
-## My Skill Set  
+##  Tecnologías con las que trabajo
 <table><tr><td valign="top" width="50%">
 
 
@@ -51,7 +51,7 @@ Como Full-Stack sé desenvolverme tanto en Front-end como en Back-end según se 
 <br/>  
 
 
-## Connect with me  
+## No dudes en contactarme! 
 <div align="center">
 <a href="https://github.com/ZairDInahet" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
