@@ -8,8 +8,6 @@
 
 Como Full-Stack sé desenvolverme tanto en Front-end como en Back-end según se requiera.    
 
-Me desempeñe brevemente como Desarrollador Full-Stack en una pasantía para una empresa de Chile llamada Mecanu, la cual se dedica a ofrecer atención automotriz a domicilio. En esta posicion 
-
 Actualmente estoy en búsqueda de laboral. 
 
 <br/>  
