@@ -12,8 +12,6 @@ Actualmente estoy en búsqueda de laboral.
 
 <br/>  
 
-
-## No dudes en contactarme! 
 <div align="center">
 
 <a href="https://linkedin.com/in/zair-dinahet-993507224/" target="_blank">
