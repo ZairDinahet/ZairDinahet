@@ -1,4 +1,4 @@
-### <div align="center">Hola! Mi nombre es Zair y soy Desarrollador Web Full Stack. 😄 🚀</div>  
+### <div align="center">Hola! Mi nombre es Zair y soy Desarrollador Web Full Stack.</div>  
   
 
 
