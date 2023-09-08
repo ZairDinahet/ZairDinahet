@@ -4,7 +4,7 @@
 ## <b>Sobre mi <b> 
 🔭Soy una persona apasionada por la tecnología, especialmente por la programación. Me encanta estar en constante aprendizaje, poseo una gran capacidad de trabajar en equipo y de adaptarme a nuevos ambientes y tecnologías.
 
-Como Full-Stack sé desenvolverme tanto en Front-end como en Back-end según se requiera.    
+Sé desenvolverme tanto en Front-end como en Back-end según se requiera.    
 
 Actualmente estoy en búsqueda de laboral. 
 
