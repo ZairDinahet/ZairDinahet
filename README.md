@@ -40,4 +40,6 @@ Actualmente estoy en búsqueda de laboral.
 </a>  
 </div>  
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ZairDinahet&label=Profile%20views&color=25253e&style=flat" alt="ZairDinahet" /> </p>
+
 
