@@ -2,11 +2,13 @@
   
 
 ## <b>Sobre mi <b> 
-🔭Soy una persona apasionada por la tecnología, especialmente por la programación. Me encanta estar en constante aprendizaje, poseo una gran capacidad de trabajar en equipo y de adaptarme a nuevos ambientes y tecnologías.
+🔭Soy una persona apasionada por la tecnología, especialmente por la programación, un entusiasta del aprendizaje y el descubrir cosas nuevas. 
 
-Sé desenvolverme tanto en Front-end como en Back-end según se requiera.    
+Sé desenvolverme con facilidad en los roles de Full Stack, Front-end o Back-end según se requiera.    
 
-Actualmente estoy en búsqueda de laboral. 
+En la actualidad, estoy en busca de nuevas oportunidades para aplicar mis conocimientos y habilidades en el mundo profesional, siempre listo para asumir nuevos retos y seguir creciendo como profesional y como persona.
+
+Si te interesa mi perfil y crees que puedo ser una buena adición, no dudes en contactarme. :)
 
 <br />
 
