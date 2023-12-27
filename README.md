@@ -4,6 +4,8 @@
 ## <b>Sobre mi <b> 
 🔭Soy una persona apasionada por la tecnología, especialmente por la programación, un entusiasta del aprendizaje y el descubrir cosas nuevas. 
 
+Actualmente cuento con experiencia trabajando con Node, Express, Sequelize, MySQL, PostgreSQL, MongoDB, React, Redux, diversos patrones de arquitecturas, entre otras tecnologías del sector. 
+
 Sé desenvolverme con facilidad en los roles de Full Stack, Front-end o Back-end según se requiera.    
 
 En la actualidad, estoy en busca de nuevas oportunidades para aplicar mis conocimientos y habilidades en el mundo profesional, siempre listo para asumir nuevos retos y seguir creciendo como profesional y como persona.
