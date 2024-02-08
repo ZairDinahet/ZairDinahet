@@ -2,15 +2,19 @@
   
 
 ## <b>Sobre mi <b> 
-🔭Soy una persona apasionada por la tecnología, especialmente por la programación, un entusiasta del aprendizaje y el descubrir cosas nuevas. 
+Hola, mi nombre es Zair, soy Desarrollador Full Stack.
 
-Actualmente cuento con experiencia trabajando con Node, Express, Sequelize, MySQL, PostgreSQL, MongoDB, React, Redux, diversos patrones de arquitecturas, entre otras tecnologías del sector. 
+🔭Soy una persona apasionada por la tecnología, especialmente por la programación, un entusiasta del aprendizaje y el descubrir cosas nuevas. Me oriento al trabajo en equipo y a la búsqueda de soluciones, busco siempre dar lo mejor de mí en cada proyecto. 
 
-Sé desenvolverme con facilidad en los roles de Full Stack, Front-end o Back-end según se requiera.    
+💻Mi pasión por la programación y la tecnología me impulsó a cursar en su momento la carrera de Lic. en Sistemas. Sin embargo, mi educación principal en lo que respecta a la programación la adquirí en el Bootcamp intensivo Full Stack Developer de "Soy Henry" y en la formación Full Stack Web Developer de "Digital House". Además, siempre estoy participando en formaciones y aprendiendo cosas nuevas del área.
+
+📚 En el ámbito técnico, mis habilidades abarcan JavaScript, HTML, CSS, Node.js, Express, Sequelize, y tengo experiencia tanto en bases de datos SQL (MySQL, PostgreSQL) como en NoSQL (MongoDB). Además, estoy versado en tecnologías como React, Redux, Vite, Tailwind, y tengo experiencia en la creación y consumo de APIs, control de versiones y la aplicación de diversos patrones de arquitectura, entre otros temas del sector.
 
 En la actualidad, estoy en busca de nuevas oportunidades para aplicar mis conocimientos y habilidades en el mundo profesional, siempre listo para asumir nuevos retos y seguir creciendo como profesional y como persona.
 
 Si te interesa mi perfil y crees que puedo ser una buena adición, no dudes en contactarme. :)
+
+✉ dinahetzair@gmail.com
 
 <br />
 
