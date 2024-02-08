@@ -2,7 +2,6 @@
   
 
 ## <b>Sobre mi <b> 
-Hola, mi nombre es Zair, soy Desarrollador Full Stack.
 
 🔭Soy una persona apasionada por la tecnología, especialmente por la programación, un entusiasta del aprendizaje y el descubrir cosas nuevas. Me oriento al trabajo en equipo y a la búsqueda de soluciones, busco siempre dar lo mejor de mí en cada proyecto. 
 
