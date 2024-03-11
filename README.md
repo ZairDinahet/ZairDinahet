@@ -9,7 +9,9 @@
 
 📚 En el ámbito técnico, mis habilidades abarcan JavaScript, HTML, CSS, Node.js, Express, Sequelize, y tengo experiencia tanto en bases de datos SQL (MySQL, PostgreSQL) como en NoSQL (MongoDB). Además, estoy versado en tecnologías como React, Redux, Vite, Tailwind, y tengo experiencia en la creación y consumo de APIs, control de versiones y la aplicación de diversos patrones de arquitectura, entre otros temas del sector.
 
-Si te interesa mi perfil no dudes en contactarme. :)
+En la actualidad, estoy en busca de nuevas oportunidades para aplicar mis conocimientos y habilidades en el mundo profesional, siempre listo para asumir nuevos retos y seguir creciendo como profesional y como persona.
+
+Si te interesa mi perfil y crees que puedo ser una buena adición, ¡no dudes en contactarme!
 
 ✉ dinahetzair@gmail.com
 
