@@ -1,4 +1,4 @@
-## <b><div align="center">Hola, soy Zair, Desarrollador Web Full Stack.</div> <b>
+## <b><div align="center">Hola, soy Zair, Desarrollador Full Stack.</div> <b>
   
 
 ## <b>Sobre mi <b> 
