@@ -3,11 +3,11 @@
 
 ## <b>Sobre mi <b> 
 
-🔭Soy una persona apasionada por la tecnología, especialmente por la programación, un entusiasta del aprendizaje y el descubrir cosas nuevas. Me oriento al trabajo en equipo y a la búsqueda de soluciones; siempre busco dar lo mejor de mí en cada proyecto. 
+Hola, soy Zair, un Desarrollador Full Stack especializado en Back-end con una pasión profunda por la tecnología y la programación. Me destaco por mi compromiso con el trabajo en equipo, la resolución de problemas y la entrega de resultados excepcionales en cada proyecto.
 
-📚 En el ámbito técnico, mis habilidades abarcan JavaScript, HTML, CSS, Node.js, Express, Sequelize, y tengo experiencia tanto en bases de datos SQL (MySQL, PostgreSQL) como en NoSQL (MongoDB, Firebase Database). Además, estoy versado en tecnologías como React, Redux, Vite, Tailwind, y en el desarrollo móvil usando React Native. Tengo experiencia en la creación y consumo de APIs, testing, control de versiones y la aplicación de diversos patrones de arquitectura, entre otros temas del sector.
+Mis habilidades técnicas incluyen JavaScript, HTML, CSS, Node.js, Express, Sequelize, así como una experiencia robusta en bases de datos SQL (MySQL, PostgreSQL) y NoSQL (MongoDB, Firebase Database). Además, estoy versado en tecnologías como React, Redux, Vite, Tailwind y desarrollo móvil con React Native. Tengo experiencia en el diseño, creación y consumo de REST APIs, testing, control de versiones y aplicación de diversos patrones de arquitectura, entre otros temas del sector. 
 
-Si te interesa mi perfil y crees que puedo ser una buena adición, ¡no dudes en contactarme!
+Si buscas un profesional comprometido con el desarrollo de soluciones innovadoras, ¡estaré encantado de conectar contigo!
 
 ✉ dinahetzair@gmail.com
 
