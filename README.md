@@ -1,6 +1,3 @@
-## <b><div align="center">Hola, soy Zair, Desarrollador Full Stack.</div> <b>
-  
-
 ## <b>Sobre mi <b> 
 
 Desarrollador Full Stack especializado en Back-end con una pasión profunda por la tecnología y la programación. Me destaco por mi compromiso con el trabajo en equipo, la resolución de problemas y la entrega de resultados excepcionales en cada proyecto.
