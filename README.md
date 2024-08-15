@@ -31,7 +31,6 @@ Si buscas un profesional comprometido con el desarrollo de soluciones innovadora
 
 <br/>
 
-
 ## 
 <div align="center">
 
