@@ -1,4 +1,5 @@
-## <b>Sobre mi <b> 
+## <b>Sobre mi<b> 
+
 
 Desarrollador Full Stack especializado en Back-end con una pasión profunda por la tecnología y la programación. Me destaco por mi compromiso con el trabajo en equipo, la resolución de problemas y la entrega de resultados excepcionales en cada proyecto.
 
@@ -6,9 +7,7 @@ Mis habilidades técnicas incluyen JavaScript, Java, HTML, CSS, Node.js, Express
 
 Si buscas un profesional comprometido con el desarrollo de soluciones innovadoras, ¡estaré encantado de conectar contigo!
 
-✉ dinahetzair@gmail.com
-
-<br />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ZairDinahet&label=Profile%20views&color=25253e&style=flat" alt="ZairDinahet" /> </p>
 
 ## <b>Github Stats</b>
 
@@ -39,6 +38,5 @@ Si buscas un profesional comprometido con el desarrollo de soluciones innovadora
 </a>  
 </div>  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ZairDinahet&label=Profile%20views&color=25253e&style=flat" alt="ZairDinahet" /> </p>
 
 
