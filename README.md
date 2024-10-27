@@ -8,7 +8,6 @@ Mis habilidades técnicas incluyen JavaScript, Node.js, Express, Sequelize, Java
 Si buscas un profesional comprometido con el desarrollo de soluciones innovadoras, ¡estaré encantado de conectar contigo!
 
 ✉ dinahetzair@gmail.com
-💻 github.com/ZairDinahet
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ZairDinahet&label=Profile%20views&color=25253e&style=flat" alt="ZairDinahet" /> </p>
 
