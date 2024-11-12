@@ -1,7 +1,7 @@
 ## <b>Sobre mi<b> 
 
 
-Full Stack Developer especializado en back-end, con sólidos conocimientos y experiencia en front-end, y una profunda pasión por la tecnología y la programación. Me destaco por mi compromiso con el trabajo en equipo, la resolución de problemas y la entrega de resultados excepcionales en cada proyecto.
+Full Stack Developer especializado en back-end con una profunda pasión por la tecnología y la programación. Me destaco por mi compromiso con el trabajo en equipo, la resolución de problemas y la entrega de resultados excepcionales en cada proyecto.
 
 Mis habilidades técnicas incluyen JavaScript, Node.js, Express, Sequelize, Java y Spring Boot, así como una experiencia robusta en bases de datos SQL (MySQL, PostgreSQL) y NoSQL (MongoDB, Firebase Database). Además, estoy versado en tecnologías como React, Redux, Vite y desarrollo móvil con React Native. Tengo experiencia en el diseño, creación y consumo de REST APIs, testing, control de versiones y aplicación de diversos patrones de arquitectura, entre otros temas del sector. 
 
