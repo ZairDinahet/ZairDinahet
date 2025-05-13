@@ -1,4 +1,4 @@
-## <b>Sobre mi<b> 
+## <b>About me<b> 
 
 
 Full Stack Developer specializing in back-end development with a deep passion for technology and programming. I excel in teamwork, problem-solving, and consistently delivering exceptional results in every project.
