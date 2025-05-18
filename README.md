@@ -3,7 +3,7 @@
 
 Full Stack Developer specializing in back-end development with a deep passion for technology and programming. I excel in teamwork, problem-solving, and consistently delivering exceptional results in every project.
 
-My technical skills include JavaScript, TypeScript, Node.js, Express, Sequelize, Java, and Spring Boot, along with extensive experience in both SQL (MySQL, PostgreSQL) and NoSQL (MongoDB, Firestore Database) databases. I am also proficient in technologies like React, and mobile development with React Native. My expertise spans designing, building, and consuming REST APIs, testing, version control, and implementing various architectural patterns.
+My technical skills include JavaScript, TypeScript, Node.js, NestJS, Express, Java, and Spring Boot, along with extensive experience working with both SQL (MySQL, PostgreSQL) and NoSQL (MongoDB, Firestore) databases. I am also proficient in technologies such as React and mobile development using React Native. My expertise spans designing, building, and consuming REST APIs, testing, version control, and implementing various architectural patterns.
 
 If you're looking for a professional committed to delivering innovative solutions, I'd be happy to connect and collaborate with you!
 
