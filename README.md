@@ -9,16 +9,6 @@ If you're looking for a professional committed to delivering innovative solution
 
 ✉ dinahetzair@gmail.com
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ZairDinahet&label=Profile%20views&color=25253e&style=flat" alt="ZairDinahet" /> </p>
-
-## <b>Github Stats</b>
-
-
-<p align="center">
-<a href="https://github.com/ZairDinahet/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZairDinahet&include_all_commits=true&count_private=true&show_icons=true&line_height=20&&theme=dark&hide_border=true&icon_color=2234AE" width="450"/>
-</a>
- 
 <a href="https://github.com/ZairDinahet">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ZairDinahet&theme=dark&hide_border=true" width="380"/>
 </a>
