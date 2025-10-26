@@ -9,12 +9,6 @@ If you're looking for a professional committed to delivering innovative solution
 
 ✉ dinahetzair@gmail.com
 
-<a href="https://github.com/ZairDinahet">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ZairDinahet&theme=dark&hide_border=true" width="380"/>
-</a>
-</p>
-
-
 <p align="center">
     <a href="https://github.com/ZairDinahet"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZairDinahet&theme=dark&hide_border=true"  width="520" alt="Amardeep Kesharwani"/></a>
 <a href="https://github.com/ZairDinahet"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZairDinahet&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" width="320"  alt="ZairDinahet"/></a>
