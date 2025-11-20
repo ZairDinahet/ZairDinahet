@@ -1,11 +1,7 @@
 ## <b>About me<b> 
 
 
-Full Stack Developer specializing in back-end development with a deep passion for technology and programming. I excel in teamwork, problem-solving, and consistently delivering exceptional results in every project.
-
-My technical skills include JavaScript, TypeScript, Node.js, NestJS, Express, Java, and Spring Boot, along with extensive experience working with both SQL (MySQL, PostgreSQL) and NoSQL (MongoDB, Firestore) databases. I am also proficient in technologies such as React and mobile development using React Native. My expertise spans designing, building, and consuming REST APIs, testing, version control, and implementing various architectural patterns.
-
-If you're looking for a professional committed to delivering innovative solutions, I'd be happy to connect and collaborate with you!
+Full Stack Developer, specializing in Back-End development. Track record in high-performance teams delivering innovative, customer-centric products that exceed business needs. I value clear communication, attention to detail, and continuous learning, which have helped me achieve success in my previous roles.
 
 ✉ dinahetzair@gmail.com
 
