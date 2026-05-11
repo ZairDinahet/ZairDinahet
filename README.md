@@ -5,10 +5,10 @@ Full Stack Developer, specializing in Back-End development. Track record in high
 
 ✉ dinahetzair@gmail.com
 
-<p align="center">
+<!-- <p align="center">
     <a href="https://github.com/ZairDinahet"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZairDinahet&theme=dark&hide_border=true"  width="520" alt="Amardeep Kesharwani"/></a>
 <a href="https://github.com/ZairDinahet"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZairDinahet&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" width="320"  alt="ZairDinahet"/></a>
-</p>
+</p> -->
 
 <br/>
 
